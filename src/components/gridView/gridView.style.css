@@ -1,0 +1,9 @@
+.grid-cell{
+    height: 50px;
+    width: 50px;
+    border: 1px solid;
+}
+
+.obstacle{
+    background: red;
+}
